@@ -1,0 +1,26 @@
+
+
+
+
+Users:
+    
+Class:
+    
+Task:
+    id: (HexString)
+    Name; (String)
+    Desc; (String)
+    Due date; (Int: Epoch Time / 1000 / 60 (in mins)) 
+    Subtasks; (Array<HexString(ID)>)
+
+Calendar:
+
+Schedule:
+
+Block: 
+    Name:
+    Time:
+    Teacher:
+
+Schedule Templates:
+    2022-2023
