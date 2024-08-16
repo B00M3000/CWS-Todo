@@ -1,1 +1,19 @@
 .env
+
+mobile/.expo/
+mobile/node_modules/
+mobile/dist/
+mobile/npm-debug.*
+mobile/*.jks
+mobile/*.p8
+mobile/*.p12
+mobile/*.key
+mobile/*.mobileprovision
+mobile/*.orig.*
+mobile/web-build/
+
+mobile/# macOS
+mobile/.DS_Store
+
+# Temporary files created by Metro to check the health of the file watcher
+mobile/.metro-health-check*
